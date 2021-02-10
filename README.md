@@ -6,3 +6,5 @@
 - 💬 Ask me about Python and Java
 - 📫 How to reach me: nicholasguantai528@gmail.com
 - ⚡ Fun fact: I am quite young. More than you think!!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickyGuants)](https://github.com/NickyGuants/github-readme-stats)
