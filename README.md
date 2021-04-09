@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Guantai Nicholas
 
-- 🔭 I’m currently working on Laravel and Yii
-- 🌱 I’m currently learning Laravel, Yii, NodeJs, React
-- 🤔 I’m looking for help with PHP
+- 🔭 I’m currently working on Django and Node.js
+- 🌱 I’m currently learning Express, NodeJs, React
+- 🤔 I’m looking for help with Data Science
 - 💬 Ask me about Python and Java
 - 📫 How to reach me: nicholasguantai528@gmail.com
 - ⚡ Fun fact: I am quite young. More than you think!!
