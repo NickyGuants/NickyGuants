@@ -11,10 +11,10 @@ You can find me on <a href="https://twitter.com/Nicky_guants"><img height="16" w
 
 ## 📈 GitHub Stat's
 <a href="">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickyGuants&layout=compact&heigt=&theme=algolia">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=NickyGuants&count_private=true&show_icons=true&theme=algolia">
 </a>
 <a href="">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=NickyGuants&count_private=true&show_icons=true&theme=algolia">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickyGuants&layout=compact&heigt=&theme=algolia">
 </a>
 
 ## 🛠 Technology & Tools
