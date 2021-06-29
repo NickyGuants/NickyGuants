@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on MERN Stack projects.
 - 🌱 I’m currently learning mobile app development with Kotlin and Flutter.
 - 🤔 I’m looking for help with data structures and algorithms and career guidance.
-- 💬 Ask me about Python. javascript, Java, and kotlin
+- 💬 Ask me about Python. javascript, Java
 - 📫 How to reach me: nicholasguantai528@gmail.com
 - ⚡ Fun fact: I am quite young. More than you think!!
 
