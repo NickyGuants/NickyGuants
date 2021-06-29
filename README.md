@@ -1,10 +1,11 @@
 ### Hi there 👋 I'm Guantai Nicholas
-- 🔭 I’m currently working on MERN Stack projects.
+- 🔭 I’m currently working on MERN Stack projects and looking for internship opportunities or freelance projects.
 - 🌱 I’m currently learning mobile app development with Kotlin and Flutter.
 - 🤔 I’m looking for help with data structures and algorithms and career guidance.
-- 💬 Ask me about Python. javascript, Java
+- 💬 Ask me about Python, javascript, and android
 - 📫 How to reach me: nicholasguantai528@gmail.com
 - ⚡ Fun fact: I am quite young. More than you think!!
+<br>
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nicholasguantai/)
@@ -14,6 +15,7 @@
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Nicky_guants)
 <br>
 <br>
+
 ## Expertise
 <img align="left" alt="Django" src="https://img.shields.io/badge/django%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
