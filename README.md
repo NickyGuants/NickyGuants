@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Guantai Nicholas
-- 🔭 I’m currently working on Mobile development using kotlin and Flutter for cross-platfrom. 
-- 🌱 I’m currently learning Express, NodeJs, React
+- 🔭 I’m currently working on MERN Stack projects.
+- 🌱 I’m currently learning mobile app development with Kotlin and Flutter.
 - 🤔 I’m looking for help with data structures and algorithms and career guidance.
 - 💬 Ask me about Python. javascript, Java, and kotlin
 - 📫 How to reach me: nicholasguantai528@gmail.com
