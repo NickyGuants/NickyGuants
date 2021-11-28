@@ -5,6 +5,7 @@
 - 💬 Ask me about Python, javascript, and android
 - 📫 How to reach me: nicholasguantai528@gmail.com
 - ⚡ Fun fact: I am quite young. More than you think!!
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=NickyGuants" alt="NickyGuants" /> </p>
 <br>
 
 ## Connect with me
