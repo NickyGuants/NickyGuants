@@ -1,11 +1,10 @@
 ### Hi there 👋 I'm Guantai Nicholas
-- 🔭 I’m currently working on MERN Stack projects and looking for internship opportunities or freelance projects.
-- 🌱 I’m currently learning mobile app development with Kotlin and Flutter.
-- 🤔 I’m looking for help with data structures and algorithms and career guidance.
-- 💬 Ask me about Python, javascript, and android
+- 🔭 I’m currently working on Data structures and algorithms problems in preparation for technical interviews.
+- 🌱 I’m currently learning the Java Spring framework and creating applications with it.
+- 🤔 I’m looking for software developer roles(freelance or full-time). Remote roles are preffered at the moment but hybrid roles are appreciated as well.
+- 💬 Ask me Java and Javascript.
 - 📫 How to reach me: nicholasguantai528@gmail.com
-- ⚡ Fun fact: I am quite young. More than you think!!
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=NickyGuants" alt="NickyGuants" /> </p>
+- ⚡ Fun fact: You only Live Once, make it worthwhile!!
 <br>
 
 ## Connect with me
@@ -18,19 +17,16 @@
 <br>
 
 ## Expertise
-<img align="left" alt="Django" src="https://img.shields.io/badge/django%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
-<img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
 <br>
 <br>
 
 
 ## 📈 GitHub Stat's
-<a href="">
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=NickyGuants&count_private=true&show_icons=true&theme=algolia">
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickyGuants&hide=html" alt="Guantai Languages" />
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
