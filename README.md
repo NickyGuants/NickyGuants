@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Guantai Nicholas
-- 🔭 I’m currently working on Data structures and algorithms problems in preparation for technical interviews.
-- 🌱 I’m currently learning the Java Spring framework and creating applications with it.
-- 🤔 I’m looking for software developer roles(freelance or full-time). Remote roles are preffered at the moment but hybrid roles are appreciated as well.
+- 🔭 I’m currently working with React, Node.js and MS SQL Server at thejitu.com, Nyeri.
+- 🌱 I’m currently learning machine learning and AI.
 - 💬 Ask me Java and Javascript.
 - 📫 How to reach me: nicholasguantai528@gmail.com
 - ⚡ Fun fact: You only Live Once, make it worthwhile!!
