@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Guantai Nicholas
-- 🔭 I’m currently working with React, Node.js and MS SQL Server at thejitu.com, Nyeri.
+- 🔭 I’m currently working with Angular, Node.js, .NET, MS SQL Server, Microsoft Azure, Azure pipelines etc.
 - 🌱 I’m currently learning machine learning and AI.
-- 💬 Ask me Java and Javascript.
+- 💬 Ask me anything full-stack.
 - 📫 How to reach me: nicholasguantai528@gmail.com
 - ⚡ Fun fact: You only Live Once, make it worthwhile!!
 <br>
@@ -15,12 +15,6 @@
 <br>
 <br>
 
-## Expertise
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<br>
-<br>
-
 ## 📈 GitHub Stat's
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=NickyGuants&count_private=true&show_icons=true&theme=algolia">
@@ -29,6 +23,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with Azure Functions: Introduction to serverless computing and Azure Functions](https://medium.com/@nicholasguantai/getting-started-with-azure-functions-introduction-to-serverless-computing-and-azure-functions-77d28377900------2)
 - [Kotlin collections for beginners](https://nicholasguantai.medium.com/kotlin-collections-for-beginners-b1bb91f79a52?source=rss-2b17da397be8------2)
 - [Kotlin Android development courses and tutorials for a beginner](https://nicholasguantai.medium.com/kotlin-android-development-courses-and-tutorials-for-a-beginner-4ade55a592f1?source=rss-2b17da397be8------2)
 <!-- BLOG-POST-LIST:END -->
