@@ -23,8 +23,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting started with Azure Functions: Introduction to serverless computing and Azure Functions](https://medium.com/@nicholasguantai/getting-started-with-azure-functions-introduction-to-serverless-computing-and-azure-functions-77d28377900------2)
-- [Kotlin collections for beginners](https://nicholasguantai.medium.com/kotlin-collections-for-beginners-b1bb91f79a52?source=rss-2b17da397be8------2)
-- [Kotlin Android development courses and tutorials for a beginner](https://nicholasguantai.medium.com/kotlin-android-development-courses-and-tutorials-for-a-beginner-4ade55a592f1?source=rss-2b17da397be8------2)
+- [Getting started with Azure Functions: Introduction to serverless computing and Azure Functions](https://medium.com/@nicholasguantai/getting-started-with-azure-functions-introduction-to-serverless-computing-and-azure-functions-77d28377900)
+- [Kotlin collections for beginners](https://nicholasguantai.medium.com/kotlin-collections-for-beginners-b1bb91f79a52?source=rss-2b17da397be8)
+- [Kotlin Android development courses and tutorials for a beginner](https://nicholasguantai.medium.com/kotlin-android-development-courses-and-tutorials-for-a-beginner-4ade55a592f1?source=rss-2b17da397be8)
 <!-- BLOG-POST-LIST:END -->
 
