@@ -4,6 +4,7 @@
 - 💬 Ask me anything full-stack.
 - 📫 How to reach me: nicholasguantai528@gmail.com
 - ⚡ Fun fact: You only Live Once, make it worthwhile!!
+- Hire me on [Upwork](https://www.upwork.com/freelancers/guantainicholas)
 <br>
 
 ## Connect with me
