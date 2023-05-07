@@ -10,6 +10,8 @@
 - Hire me on [Upwork](https://www.upwork.com/freelancers/guantainicholas)
 <br>
 
+Currently learning Data analysis using Python, Numpy, Pandas Matplotlib, and Machine learning techniques
+
 ## Reach Out
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nicholasguantai/)
 
