@@ -7,7 +7,7 @@
 - .NET
 - MS SQL Server
 - Microsoft Azure, Azure Devops.
-- Hire me on [Upwork](https://www.upwork.com/freelancers/guantainicholas)
+
 <br>
 
 Currently learning Data analysis using Python, Numpy, Pandas Matplotlib, and Machine learning techniques
