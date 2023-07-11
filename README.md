@@ -26,7 +26,7 @@ Currently learning Data analysis using Python, Numpy, Pandas Matplotlib, and Mac
 
 <br>  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NickyGuants&langs_count=10&theme=tokyonight)]()
 
-<img align="center" alt="wakatime" src="https://wakatime.com/badge/user/dfba5cf4-312a-47b8-a74f-e95949251991.svg?&style=for-the-badge&logo=wakatime&logoColor=white" />
+<!-- <img align="center" alt="wakatime" src="https://wakatime.com/badge/user/dfba5cf4-312a-47b8-a74f-e95949251991.svg?&style=for-the-badge&logo=wakatime&logoColor=white" /> -->
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
