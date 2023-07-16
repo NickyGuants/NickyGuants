@@ -30,6 +30,7 @@ Currently learning Data analysis using Python, Numpy, Pandas Matplotlib, and Mac
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Angular Dependency Injection: A Beginner’s Guide](https://nicholasguantai.medium.com/angular-dependency-injection-a-beginners-guide-3712809c0e02)
 - [Getting started with Azure Functions: Introduction to serverless computing and Azure Functions](https://medium.com/@nicholasguantai/getting-started-with-azure-functions-introduction-to-serverless-computing-and-azure-functions-77d28377900)
 - [Kotlin collections for beginners](https://nicholasguantai.medium.com/kotlin-collections-for-beginners-b1bb91f79a52?source=rss-2b17da397be8)
 - [Kotlin Android development courses and tutorials for a beginner](https://nicholasguantai.medium.com/kotlin-android-development-courses-and-tutorials-for-a-beginner-4ade55a592f1?source=rss-2b17da397be8)
