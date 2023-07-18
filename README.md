@@ -7,7 +7,6 @@
 - .NET and Asp.net Core
 - MS SQL Server
 - Microsoft Azure, Azure DevOps.
-
 <br>
 
 ## Reach Out
