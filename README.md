@@ -4,13 +4,11 @@
 - Node.js
 - Java
 - Javascript, Typescript
-- .NET
+- .NET and Asp.net Core
 - MS SQL Server
-- Microsoft Azure, Azure Devops.
+- Microsoft Azure, Azure DevOps.
 
 <br>
-
-Currently learning Data analysis using Python, Numpy, Pandas Matplotlib, and Machine learning techniques
 
 ## Reach Out
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nicholasguantai/)
@@ -21,10 +19,11 @@ Currently learning Data analysis using Python, Numpy, Pandas Matplotlib, and Mac
 <br>
 
 ## Profile stats
+![Nick's github stats](https://github-readme-stats.vercel.app/api?username=NickyGuants&show_icons=true&theme=radical&include_all_commits=true) 
 
-<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=NickyGuants&count_private=true&theme=tokyonight&showicons=true)]() -->
+![Nick's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NickyGuants&theme=radical&layout=compact)
 
-<br>  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NickyGuants&langs_count=10&theme=tokyonight)]()
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NickyGuants"></img>
 
 <!-- <img align="center" alt="wakatime" src="https://wakatime.com/badge/user/dfba5cf4-312a-47b8-a74f-e95949251991.svg?&style=for-the-badge&logo=wakatime&logoColor=white" /> -->
 
