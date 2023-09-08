@@ -1,24 +1,32 @@
-### Hi there 👋 I'm Guantai Nicholas. I'm a software developer skilled in:
-- Angular
-- React.js
-- Node.js
-- Java
-- Javascript, Typescript
-- .NET and Asp.net Core
+### Hi there 👋 I'm Guantai Nicholas. I'm a software engineer and data scientist skilled in:
+- Data Science
+  - Python
+  - Data Analysis
+  - Machine Learning
+- Web Development
+  - Javascript
+  - Typescript
+  - Angular
+  - React.js
+  - Node.js
+  - C#
+  - .NET
+  - Asp.net
+  - Java
+  - Spring Boot
 - MS SQL Server
-- Microsoft Azure, Azure DevOps.
+- Microsoft Azure, AWS
+- Azure DevOps
+- Technical Writing
 <br>
 
 ## Reach Out
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nicholasguantai/)
-
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://nicholasguantai.medium.com/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicholasguantai528@gmail.com)
 <br>
 
 ## Profile stats
-<!-- ![Nick's github stats](https://github-readme-stats.vercel.app/api?username=NickyGuants&show_icons=true&theme=radical&include_all_commits=true) -->
+<!--![Nick's github stats](https://github-readme-stats.vercel.app/api?username=NickyGuants&show_icons=true&theme=radical&include_all_commits=true) -->
 
 ![Nick's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NickyGuants&theme=radical)
 
