@@ -20,12 +20,7 @@
 - Technical Writing
 <br>
 
-## Reach Out
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicholasguantai528@gmail.com)
-<br>
-
-## Profile stats
+## Profile Stats
 <!--![Nick's github stats](https://github-readme-stats.vercel.app/api?username=NickyGuants&show_icons=true&theme=radical&include_all_commits=true) -->
 
 ![Nick's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NickyGuants&theme=radical)
