@@ -1,19 +1,17 @@
 ### Hi there 👋 I'm Guantai Nicholas. I'm a software engineer and data scientist skilled in:
-- Data Science
-  - Python
-  - Data Analysis
-  - Machine Learning
 - Web Development
+  - C#
+  - .NET
+  - Asp.net
   - Javascript
   - Typescript
   - Angular
   - React.js
   - Node.js
-  - C#
-  - .NET
-  - Asp.net
-  - Java
-  - Spring Boot
+
+- Data Science
+  - Python
+  - Machine Learning
 - MS SQL Server
 - Microsoft Azure, AWS
 - Azure DevOps
