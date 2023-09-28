@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Guantai Nicholas. I'm a software engineer and data scientist skilled in:
-- Web Development
+- Software Development
   - C#
   - .NET
   - Asp.net
