@@ -10,6 +10,7 @@
     - Node.js
 - Machine Learning & Deep Learning
   - Python, Numpy, Pandas
+  - Scikit-learn
   - TensorFlow and Keras, Pytorch
   - Computer Vision
 - Data Management
