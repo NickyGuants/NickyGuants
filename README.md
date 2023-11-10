@@ -8,7 +8,7 @@
     - Angular
     - React.js
     - Node.js
-- Machine Learning
+- Machine Learning & Deep Learning
   - Python, Numpy, Pandas
   - TensorFlow and Keras, Pytorch
   - Computer Vision
