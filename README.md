@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Guantai Nicholas. I'm a software engineer and Machine Learning engineer skilled in:
-- Software Development
+- Software Engineering
   - C#
     - .NET
     - ASP.NET
@@ -11,20 +11,9 @@
 - Machine Learning & Deep Learning
   - Python, Numpy, Pandas
   - Scikit-learn
-  - TensorFlow and Keras, Pytorch
+  - Frameworks - TensorFlow, Keras, PyTorch
   - Computer Vision
-- Data Management
-  - MS SQL Server
-  - Postgresql
-  - SQLAlchemy
-- Cloud
-  - AWS
-  - Azure
-- DevOps
-  - Docker
-  - Kubernetes
-  - Azure DevOps & Pipelines
-- Technical Writing
+  - Natural Language Processing (NLP)
 <br>
 
 ## Profile Stats
